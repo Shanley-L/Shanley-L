@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Léon Shanley</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
 
-- 🔭 I’m currently working on [Camagru](https://github.com/Tachiyoru/Camagru) a project from 42Paris.
+- 🔭 I’m currently working on [Camagru](https://github.com/Tachiyoru/Camagru) a 42Paris's subject.
 
 - 🌱 I’m currently learning **Frameworks and much about WebDev as well as improving all my knowings about code**
 
