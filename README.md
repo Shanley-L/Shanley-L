@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachiyoru&show_icons=true&theme=dark&locale=en&layout=compact" alt="tachiyoru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tachiyoru&theme=dark" alt="tachiyoru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tachiyoru&theme=dark"/></p>
