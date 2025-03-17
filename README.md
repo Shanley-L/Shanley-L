@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanley LEON</h1>
 <h3 align="center">A passionate student from 42 Paris</h3>
 
-- 🔭 I’m currently working on [Matcha](https://cdn.intra.42.fr/pdf/pdf/88992/en.subject.pdf) a 42Paris's project as well as a [Matcha-Analytics](https://github.com/Tachiyoru/Matcha-Analytics/blob/main/README.md) to practice Java.
+- 🔭 I’m currently working on [Matcha](https://cdn.intra.42.fr/pdf/pdf/88992/en.subject.pdf) a 42Paris's project as well as a [Matcha-Analytics](https://github.com/Shanley-L/Matcha-Analytics/blob/main/README.md) to practice Java.
 
 - 🌱 I’m currently learning **Frameworks and much about WebDev as well as improving all my knowings about code**
 
